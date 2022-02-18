@@ -1,5 +1,5 @@
 // Required dependencies
-// Google Cloud Platform - Restful API with OAuth
+// Google Cloud Platform - Restful API with OAuth. View console online
 const express = require('express');
 const app = express();
 const passport = require('passport');
